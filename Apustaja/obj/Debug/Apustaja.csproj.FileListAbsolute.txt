@@ -1,0 +1,6 @@
+C:\Ohjelmointijuttui\Apustaja\Apustaja\bin\Debug\Apustaja.exe.config
+C:\Ohjelmointijuttui\Apustaja\Apustaja\bin\Debug\Apustaja.exe
+C:\Ohjelmointijuttui\Apustaja\Apustaja\bin\Debug\Apustaja.pdb
+C:\Ohjelmointijuttui\Apustaja\Apustaja\obj\Debug\Apustaja.csprojAssemblyReference.cache
+C:\Ohjelmointijuttui\Apustaja\Apustaja\obj\Debug\Apustaja.exe
+C:\Ohjelmointijuttui\Apustaja\Apustaja\obj\Debug\Apustaja.pdb
